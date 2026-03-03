@@ -1,28 +1,13 @@
 # Hi, I'm Huy 👋
 
 Web3 Developer focused on smart contracts, DeFi protocols, and dApp development.
+I build secure, production-grade Web3 systems across smart contracts, dApps, and backend integrations.
 
-## Scope
-- Smart contract engineering for DeFi and on-chain applications
-- dApp architecture and wallet interaction flows
-- Backend/services for indexing, automation, and data reliability
+- Smart contract engineering for DeFi and on-chain applications  
+- Security-focused development with strong testing discipline  
+- Scalable architecture, clean interfaces, and reliable delivery  
 
-## Technical Focus
-- Protocol correctness, security hardening, and test coverage
-- Clean system design with explicit tradeoffs
-- Performance, maintainability, and operational readiness
+**Stack:** Solidity, Rust, TypeScript, Foundry, Hardhat, Ethers/Viem, React, Node.js
 
-## Engineering Standards
-- Security-first development lifecycle
-- Test-driven implementation and review discipline
-- Clear interfaces, predictable behavior, and robust error handling
-- CI/CD-driven quality gates
-
-## Teck Stack
-- Languages: Solidity, Rust, TypeScript, JavaScript
-- Tooling: Foundry, Hardhat, Ethers/Viem, Node.js
-- Product: React/Next.js, API services, cloud deployment workflows
-
-## Contact
-- GitHub: [github.com/hms1499](https://github.com/hms1499)
-- Email: thanvanhuy159@gmail.com
+GitHub: [github.com/hms1499](https://github.com/hms1499)  
+Email: thanvanhuy159@example.com

@@ -18,15 +18,11 @@ Web3 Developer focused on smart contracts, DeFi protocols, and dApp development.
 - Clear interfaces, predictable behavior, and robust error handling
 - CI/CD-driven quality gates
 
-## Stack
+## Teck Stack
 - Languages: Solidity, Rust, TypeScript, JavaScript
 - Tooling: Foundry, Hardhat, Ethers/Viem, Node.js
 - Product: React/Next.js, API services, cloud deployment workflows
 
-## Contact
-- GitHub: [github.com/hms1499](https://github.com/hms1499)
-- Email: your-email@example.com
-```
 ## Contact
 - GitHub: [github.com/hms1499](https://github.com/hms1499)
 - Email: thanvanhuy159@gmail.com

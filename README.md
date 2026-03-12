@@ -9,5 +9,3 @@ I build secure, production-grade Web3 systems across smart contracts, dApps, and
 
 **Stack:** Solidity, Rust, TypeScript, Foundry, Hardhat, Ethers/Viem, React, Node.js
 
-GitHub: [github.com/hms1499](https://github.com/hms1499)  
-Email: thanvanhuy159@example.com
